@@ -4,7 +4,7 @@ group: 'Incredible'
 
 # My Incredible Dataset
 
-This is my incredible dataset testting changes.
+This is my incredible dataset.
 
 ## Chart
 
